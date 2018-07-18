@@ -72,6 +72,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="container">
+          <img src={require('./timg.png')} className="logo"/>
           <input className="searchInput" type="text" 
           onKeyDown={this.handleKeyDown.bind(this)} 
           onChange={this.handleChange.bind(this)} 

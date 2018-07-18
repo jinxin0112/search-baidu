@@ -15,5 +15,6 @@
   },
   "devDependencies": {
     "jsonp": "^0.2.1"
-  }
+  },
+  "homepage": "http://kingduidui.github.io/search-baidu"
 }
